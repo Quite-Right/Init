@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:31:36 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:03:43 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#a8. Find the provider of slash16.org
+
+#host slash16.org
+#(command to find the address of slash16.org)
+whois 143.204.238.12
+#(command to find the info about our host, who is Amazon)

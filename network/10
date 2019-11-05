@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:33:15 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:06:16 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#10. Identify the network devices between your computer and the slash16.org domain
+
+traceroute slash16.org
+
+#or traceroute + chosen address of slash16.org

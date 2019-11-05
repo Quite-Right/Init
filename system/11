@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 18:15:38 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:37:23 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#11. Name the command that displays the available space left and used on the system
+#in an humanly understandable way
+
+df
+#or more humanly
+df -h

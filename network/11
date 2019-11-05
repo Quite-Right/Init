@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:38:01 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:08:44 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#11. Use the output of the previous command to find the name and IP address of the
+#device that makes the link between you (local network) and the outside world
+
+it is the last ip address in the list which is similar to 192.168.*.*

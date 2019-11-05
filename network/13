@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:45:39 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:09:42 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#13. Thanks to the previous question and the reverse DNS find the name of your host
+
+ipconfig getpacket en0 | grep 'domain_name (string):' | cut -d ' ' -f 3

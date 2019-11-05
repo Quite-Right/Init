@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    17                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/27 18:37:24 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:46:38 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#17. Find the command that allows you to connect via ssh on the VM.(In parallel with
+#the graphic session)
+
+ssh [hostname]@[hostname or ip] -p [port number]
+
+-p [port number] is optional
+

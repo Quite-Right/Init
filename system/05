@@ -1,0 +1,19 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:58:36 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:18:56 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#5. Name the command that determines the state of the SSH service.
+
+systemctl status ssh
+#or
+sudo service ssh status
+#or
+/ect/init.d/ssh status

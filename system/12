@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 18:17:40 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:38:19 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#12. Figure out the exact size of each folder of /var in a humanly understandable way
+#followed by the path of it.
+
+#as root
+
+du -sh /var/*
+
+#or sudo authorized user
+
+sudo du -sh /var/* 

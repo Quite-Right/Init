@@ -1,0 +1,20 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    23                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/27 18:50:02 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:51:35 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#23. Explain how connect yourself as new user. (With graphic session and ssh session)
+
+#command to change user in terminal
+su [username]
+
+#command to connect via ssh
+ssh [username]@[ip address] -p [port]
+#you are also able to change the user by Menu -> Logout

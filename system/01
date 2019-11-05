@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:47:44 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:12:05 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#1. In what file can you find the installed version of your Debian?
+
+It can be found in the root of your Debian in file etc/issue

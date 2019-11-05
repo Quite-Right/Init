@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kturnips <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/07/25 17:14:42 by kturnips          #+#    #+#              #
+#    Updated: 2019/08/01 13:01:26 by kturnips         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#6. Get the complete path of the file that contains the IP address of the DNS server
+#you’re using
+
+etc/resolv.conf
